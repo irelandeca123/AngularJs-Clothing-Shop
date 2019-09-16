@@ -1,4 +1,4 @@
-# Simple AngularJs MVC Clothing Website 
+# AngularJs MVC Clothing Website 
 
 ## Application Description
 User is capable of:
