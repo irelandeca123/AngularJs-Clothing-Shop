@@ -1,0 +1,25 @@
+[{
+	"name": "T-Shirt",
+	"colour": "Green",
+	"rate": 20,
+	"available": true,
+	"thumb": "http://placehold.it/50x50/111111/ffffff"
+}, {
+	"name": "Hoodie",
+	"colour": "Yellow",
+	"rate": 40,
+	"available": true,
+	"thumb": "http://placehold.it/50x50/2222222/ffffff"
+}, {
+	"name": "Jeans",
+	"colour": "Orange",
+	"rate": 50,
+	"available": false,
+	"thumb": "http://placehold.it/50x50/333333/ffffff"
+}, {
+	"name": "Jacket",
+	"colour": "Black",
+	"rate": 100,
+	"available": true,
+	"thumb": "http://placehold.it/50x50/4444444/ffffff"
+}]
